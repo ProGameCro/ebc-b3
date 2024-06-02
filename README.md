@@ -1,9 +1,9 @@
-## Explicit Bouncers Clan - BigBrotherBot
+## SDWarriors Clan - BigBrotherBot
 
 __This repository contains our live server version of BigBrotherBot3, the base version is 1.10.10 but it has some changes.__
 We will have a new version out with some custom changes to core plugins that will not get pulled to official b3 repository
 
-__Visit us at our [website](http://www.explicitbouncers.com/), [forum](http://www.explicitbouncers.com/forum/index.php) or join our [discord](https://discordapp.com/invite/cMXNWcT) server.__
+__Visit us at our [forum](http://www.wzcroclan.com/), or join our [discord](https://discord.gg/eyRRhhuV) server.__
 
 __Visit BigBrotherBot [here](https://github.com/BigBrotherBot/big-brother-bot)__
 
